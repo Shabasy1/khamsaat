@@ -1,0 +1,341 @@
+body{
+    background-color: rgb(243, 243, 243);
+    top: 0;
+    left: 0;
+    margin-left: 0;
+    width: 100%;
+    height: 3000px;
+    scroll-padding: 1rem 0 0;
+    
+}
+nav{
+    display: flex;
+    
+    
+    color: white;
+    background-color: #444 ;
+    left: 0;
+    top: 0;
+    right: 0;
+    position: fixed;
+    z-index: 1;
+    grid-template-columns: repeat(12,10px);
+    
+    
+}
+    
+
+    
+    
+
+.gl{
+    margin: 15px;
+    
+    color: white;
+    position: relative;
+    top: 12px;
+    left: 200px;
+   
+}
+a{
+    text-decoration: none;
+}
+.g{
+    margin: 25px;
+    color: white;
+    position: relative;
+    left: 700px;
+}
+.ccc{
+    position: relative;
+    left: 700px;
+    top: 12px;
+    
+}
+.q{
+    position: absolute;
+    bottom: -200px;
+    z-index: -1;
+   
+    
+}
+
+.ttt{
+    position: relative;
+    top: 400px;
+    right: -30%;
+    width: 400px;
+}
+.r{
+    position: relative;
+    width: 600px;
+    
+    padding: 20px;
+    top: 20px;
+    
+
+
+} 
+.e{
+    position: absolute;
+    background-color: #52b035;
+    bottom: -13px;
+    padding: 15px;
+    left: 6px;
+    border: #3c8d24;
+    color: white;
+    cursor: pointer;
+    width: 50px;
+    height: 45px;
+    
+} 
+.e:hover{
+    background-color: #2f990f;
+
+}  
+
+
+input::placeholder {
+    position: relative;
+    left: 77% ;
+
+}
+.y{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    left: -13%;
+    
+    width: 700px;
+    height: 50px;
+
+}
+h1{
+    font-size: 40px;
+}
+.o{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 40px;
+    top: 1000px;
+    font-size: 35px;
+}
+#z{
+    width: 1400px;
+    position: relative;
+    left: 17%;
+    top: 1050px;
+    display: grid;
+    grid-template-columns:repeat(4,325px);
+    grid-row-gap: 30px;
+    
+    max-width: 100%;
+
+}
+.w{
+    position: absolute;
+    z-index: -1;
+}
+.cc{
+    width: 300px;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.425);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.c{
+    color: white;
+}
+.i{
+    
+    width: 300px;
+    
+    position: relative;
+    left: 17%;
+    top: 1300px;
+    display: grid;
+    
+    grid-template-columns: repeat(2,200px);
+    grid-column-gap: 1010px;
+    margin-top: 50px;
+}
+.yt{
+    position: relative;
+    top: 15px;
+    
+}
+.er{
+    color: #2f990f;
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+    border: #2f990f solid 1px;
+    cursor: pointer;
+}
+.er:hover{
+    color: white;
+    background-color: #2f990f;
+
+}
+.www{
+    width: 1400px;
+    position: relative;
+    left: 17%;
+    top: 1330px;
+    
+    display: grid;
+    grid-template-columns:repeat(4,325px);
+    grid-row-gap: 30px;
+    
+    max-width: 100%;
+    
+
+}
+.oo{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    right: 24px;
+}
+.ff{
+    color: #444;
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    text-align: right;
+    right: 55%;
+}
+.star{
+    position: relative;
+    left: 215px;
+    color: rgb(243, 161, 8);
+    font-size: 15px;
+}
+
+.foot{
+    position: relative;
+    top: 1500px;
+    display: grid;
+    color: #000000;
+    font-size: 16px;
+    
+
+    
+    
+}
+.fot{
+    
+    display: grid;
+    grid-template-columns: repeat(4,350px);
+    width: 500px;
+    position: relative;
+    left: 26%;
+    color: #000000;
+    
+    
+
+}
+.foot a{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    right: 83%;
+    color: #069e0d;
+    
+}
+.fot .foot .icon{
+    display: flex;
+    
+}
+.fot .foot .ico{
+    position: relative;
+    left: -350px;
+    bottom: 35px;
+}
+.dd{
+    position: relative;
+    top: 1600px;
+    display: grid;
+    grid-template-columns: repeat(4,100px);
+    grid-column-gap: 20px;
+    left: 60%;
+    width: 500px;
+    
+}
+.fff{
+    position: relative;
+    top: 1635px;
+    left: 250px;
+    font-size: 15px;
+    color: black;
+    width: 500px;
+}
+.ass img{
+    position: relative;
+    top: 1700px;
+    left: 900px;
+
+}
+.zx{
+    position: relative;
+    top: 1700px;
+    display: grid;
+    grid-template-columns: repeat(6,200px);
+    grid-column-gap: 0px;
+    left: 20%;
+    width: 500px;
+}
+h4{
+    display: flex;
+    justify-content: flex-end;
+    width: 170px;
+    font-size: 15px;
+    position: relative;
+    right: 50px;
+    
+}
+.ggg{
+    font-size: 12px;
+    position: relative;
+    color: black;
+}
+.gggf{
+    color: black;
+    font-size: 12px;
+    position: relative;
+    left: 605px
+    
+    
+}
+.dd div a{
+    color: #000000;
+}
+.nn{
+    position: absolute;
+    top: 6030px;
+    z-index: -3;
+    right: 0px;
+    
+    
+}
+.kj{
+    position: absolute;
+    top: 6610px;
+    z-index: -3;
+    right: 350px;
+    left: 0px;
+    
+}
+.tr{
+    position: absolute;
+    right: 350px;
+    left: 0px;
+    z-index: -1;
+    top: 950px;
+    
+    
+}
